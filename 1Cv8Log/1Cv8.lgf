@@ -13,4 +13,13 @@
 {4,"_$InfoBase$_.PredefinedDataUpdate",6},
 {5,cb6eb29c-d2e7-4169-843a-1d96204ce8d5,"",1},
 {5,e23050ae-4412-4a7b-bd79-f1d60b7faa7e,"",2},
-{4,"_$InfoBase$_.DBConfigUpdate",7}
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,cb6eb29c-d2e7-4169-843a-1d96204ce8d5,"Справочник.Иноагенты",1},
+{4,"_$Transaction$_.Commit",10},
+{4,"_$Data$_.Update",11},
+{5,20b7f0c2-eea6-4f12-95d2-dcf2759badcc,"Документ.ВыгнатьИноагента",3},
+{4,"_$Data$_.Post",12},
+{3,"BackgroundJob",3}
